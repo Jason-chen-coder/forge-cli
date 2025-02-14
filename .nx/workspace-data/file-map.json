@@ -1,0 +1,97 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.4.4",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "pluginsConfig": {
+    "@nrwl/workspace": {
+      "useLerna": true,
+      "parallel": 4,
+      "packageManager": "pnpm"
+    }
+  },
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "package.json",
+        "hash": "13758019955870865937"
+      },
+      {
+        "file": "lerna.json",
+        "hash": "3746596881587736083"
+      },
+      {
+        "file": "nx.json",
+        "hash": "15534388590734458252"
+      },
+      {
+        "file": "lerna-debug.log",
+        "hash": "11183387069396329794"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "8587836968507943632"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "12490379697057147600"
+      }
+    ],
+    "projectFileMap": {
+      "@forge-cli/commands": [
+        {
+          "file": "packages/commands/README.md",
+          "hash": "18281757599773972083"
+        },
+        {
+          "file": "packages/commands/__tests__/commands.test.js",
+          "hash": "17029415047068053107"
+        },
+        {
+          "file": "packages/commands/lib/commands.js",
+          "hash": "4792728679040445256"
+        },
+        {
+          "file": "packages/commands/package.json",
+          "hash": "13511133631178239056"
+        }
+      ],
+      "@forge-cli/core": [
+        {
+          "file": "packages/core/README.md",
+          "hash": "739665333428317342"
+        },
+        {
+          "file": "packages/core/__tests__/core.test.js",
+          "hash": "7391047460588061806"
+        },
+        {
+          "file": "packages/core/lib/core.js",
+          "hash": "14930189343183403810"
+        },
+        {
+          "file": "packages/core/package.json",
+          "hash": "2554574192023139913"
+        }
+      ],
+      "@forge-cli/utils": [
+        {
+          "file": "packages/utils/README.md",
+          "hash": "6843590027674082883"
+        },
+        {
+          "file": "packages/utils/__tests__/utils.test.js",
+          "hash": "14453996436464896720"
+        },
+        {
+          "file": "packages/utils/lib/utils.js",
+          "hash": "13392667972890501296"
+        },
+        {
+          "file": "packages/utils/package.json",
+          "hash": "8223684407421673397"
+        }
+      ]
+    }
+  }
+}

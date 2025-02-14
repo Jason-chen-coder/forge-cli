@@ -1,0 +1,70 @@
+[NX Daemon Server] - 2025-02-14T15:21:23.519Z - Started listening on: /var/folders/ms/hznfwhls7zbbdtmdfvv9yky40000gn/T/7a620bbfb50ba7a12946/d.sock
+[NX Daemon Server] - 2025-02-14T15:21:23.519Z - [WATCHER]: Subscribed to changes within: /Users/jasonchen/Desktop/self/forge-cli (native)
+[NX Daemon Server] - 2025-02-14T15:21:23.521Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-02-14T15:21:23.521Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-02-14T15:21:23.522Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-02-14T15:21:23.522Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-02-14T15:21:23.524Z - Time taken for 'loadSpecifiedNxPlugins' 0.47504099970683455ms
+[NX Daemon Server] - 2025-02-14T15:21:23.581Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:21:23.622Z - Time taken for 'Load Nx Plugin: /Users/jasonchen/Desktop/self/forge-cli/node_modules/nx/src/plugins/package-json' 98.79683299968019ms
+[NX Daemon Server] - 2025-02-14T15:21:23.622Z - Time taken for 'Load Nx Plugin: /Users/jasonchen/Desktop/self/forge-cli/node_modules/nx/src/plugins/project-json/build-nodes/project-json' 99.02350000012666ms
+[NX Daemon Server] - 2025-02-14T15:21:23.625Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:21:23.625Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:21:23.625Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:21:23.628Z - Time taken for 'loadDefaultNxPlugins' 102.66433300031349ms
+[NX Daemon Server] - 2025-02-14T15:21:23.640Z - Time taken for 'build-project-configs' 6.183792000170797ms
+[NX Daemon Server] - 2025-02-14T15:21:23.656Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:21:23.656Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-02-14T15:21:23.656Z - Time taken for 'total for creating and serializing project graph' 133.9301670002751ms
+[NX Daemon Server] - 2025-02-14T15:21:23.658Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-02-14T15:21:23.659Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 134. Response time: 3.
+[NX Daemon Server] - 2025-02-14T15:21:23.660Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2025-02-14T15:21:23.660Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2025-02-14T15:21:23.660Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2025-02-14T15:21:23.730Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-02-14T15:22:04.671Z - [WATCHER]: lerna.json was modified
+[NX Daemon Server] - 2025-02-14T15:22:04.671Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:22:04.771Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:22:04.771Z - [REQUEST]: lerna.json
+[NX Daemon Server] - 2025-02-14T15:22:04.771Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:22:04.773Z - Time taken for 'hash changed files from watcher' 0.0775419999845326ms
+[NX Daemon Server] - 2025-02-14T15:22:04.777Z - Time taken for 'build-project-configs' 4.561832999810576ms
+[NX Daemon Server] - 2025-02-14T15:22:04.785Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:22:04.785Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-02-14T15:22:04.785Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-02-14T15:22:04.785Z - Time taken for 'total execution time for createProjectGraph()' 6.012124999891967ms
+[NX Daemon Server] - 2025-02-14T15:22:11.435Z - [WATCHER]: lerna.json was modified
+[NX Daemon Server] - 2025-02-14T15:22:11.436Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:22:11.636Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:22:11.636Z - [REQUEST]: lerna.json
+[NX Daemon Server] - 2025-02-14T15:22:11.636Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:22:11.639Z - Time taken for 'hash changed files from watcher' 0.12083399994298816ms
+[NX Daemon Server] - 2025-02-14T15:22:11.647Z - Time taken for 'build-project-configs' 7.4170000003650784ms
+[NX Daemon Server] - 2025-02-14T15:22:11.660Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:22:11.660Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-02-14T15:22:11.660Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-02-14T15:22:11.660Z - Time taken for 'total execution time for createProjectGraph()' 11.365958999842405ms
+[NX Daemon Server] - 2025-02-14T15:22:11.800Z - [WATCHER]: lerna.json was modified
+[NX Daemon Server] - 2025-02-14T15:22:11.800Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:22:11.999Z - [WATCHER]: lerna.json was modified
+[NX Daemon Server] - 2025-02-14T15:22:12.000Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:22:12.200Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:22:12.200Z - [REQUEST]: lerna.json
+[NX Daemon Server] - 2025-02-14T15:22:12.200Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:22:12.201Z - Time taken for 'hash changed files from watcher' 0.10112500004470348ms
+[NX Daemon Server] - 2025-02-14T15:22:12.206Z - Time taken for 'build-project-configs' 4.4754160000011325ms
+[NX Daemon Server] - 2025-02-14T15:22:12.207Z - [WATCHER]: lerna.json was modified
+[NX Daemon Server] - 2025-02-14T15:22:12.207Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:22:12.215Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:22:12.215Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-02-14T15:22:12.215Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-02-14T15:22:12.215Z - Time taken for 'total execution time for createProjectGraph()' 6.712041000369936ms
+[NX Daemon Server] - 2025-02-14T15:22:13.007Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:22:13.008Z - [REQUEST]: lerna.json
+[NX Daemon Server] - 2025-02-14T15:22:13.008Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:22:13.012Z - Time taken for 'hash changed files from watcher' 0.28487499989569187ms
+[NX Daemon Server] - 2025-02-14T15:22:13.024Z - Time taken for 'build-project-configs' 11.282165999989957ms
+[NX Daemon Server] - 2025-02-14T15:22:13.035Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:22:13.035Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-02-14T15:22:13.035Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-02-14T15:22:13.035Z - Time taken for 'total execution time for createProjectGraph()' 10.449749999679625ms

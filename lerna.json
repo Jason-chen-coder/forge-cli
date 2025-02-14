@@ -8,7 +8,6 @@
   "conventionalCommits": true,  
   "command": {
     "publish": {
-      "gitRemote": "git@github.com:Jason-chen-coder/forge-cli.git",
       "conventionalCommits": true,
       "message": "chore(release): publish %v"
     }
