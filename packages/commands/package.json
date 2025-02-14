@@ -1,0 +1,22 @@
+{
+  "name": "@forge-cli/commands",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "jasonchen <chenhongxin@genomics.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/commands.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@forge-cli/commands.test.js"
+  }
+}
