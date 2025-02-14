@@ -1,0 +1,10 @@
+{
+    "pluginsConfig": {
+      "@nrwl/workspace": {
+        "useLerna": true,
+        "parallel": 4, 
+        "packageManager": "pnpm"
+      }
+    }
+  }
+  
