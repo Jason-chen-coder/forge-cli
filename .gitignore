@@ -2,3 +2,7 @@ node_modules/
 
 .nx/workspace/*
 .nx/workspace-data/d/daemon.log
+.nx/workspace-data/file-map.json
+.nx/workspace-data/nx_files.nxt
+.nx/workspace-data/project-graph.json
+.nx/workspace-data/d/server-process.json

@@ -17,24 +17,24 @@
         "hash": "13758019955870865937"
       },
       {
-        "file": "lerna.json",
-        "hash": "3746596881587736083"
-      },
-      {
         "file": "nx.json",
         "hash": "15534388590734458252"
       },
       {
-        "file": "lerna-debug.log",
-        "hash": "11183387069396329794"
+        "file": "package-lock.json",
+        "hash": "12490379697057147600"
       },
       {
         "file": ".gitignore",
-        "hash": "8587836968507943632"
+        "hash": "4103526088249934200"
       },
       {
-        "file": "package-lock.json",
-        "hash": "12490379697057147600"
+        "file": "lerna.json",
+        "hash": "3746596881587736083"
+      },
+      {
+        "file": "lerna-debug.log",
+        "hash": "11183387069396329794"
       }
     ],
     "projectFileMap": {
@@ -56,24 +56,6 @@
           "hash": "13511133631178239056"
         }
       ],
-      "@forge-cli/core": [
-        {
-          "file": "packages/core/README.md",
-          "hash": "739665333428317342"
-        },
-        {
-          "file": "packages/core/__tests__/core.test.js",
-          "hash": "7391047460588061806"
-        },
-        {
-          "file": "packages/core/lib/core.js",
-          "hash": "14930189343183403810"
-        },
-        {
-          "file": "packages/core/package.json",
-          "hash": "2554574192023139913"
-        }
-      ],
       "@forge-cli/utils": [
         {
           "file": "packages/utils/README.md",
@@ -90,6 +72,24 @@
         {
           "file": "packages/utils/package.json",
           "hash": "8223684407421673397"
+        }
+      ],
+      "@forge-cli/core": [
+        {
+          "file": "packages/core/README.md",
+          "hash": "739665333428317342"
+        },
+        {
+          "file": "packages/core/__tests__/core.test.js",
+          "hash": "7391047460588061806"
+        },
+        {
+          "file": "packages/core/lib/core.js",
+          "hash": "14930189343183403810"
+        },
+        {
+          "file": "packages/core/package.json",
+          "hash": "2554574192023139913"
         }
       ]
     }

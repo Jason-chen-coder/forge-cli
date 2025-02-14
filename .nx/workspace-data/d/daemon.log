@@ -85,3 +85,78 @@
 [NX Daemon Server] - 2025-02-14T15:22:56.724Z - [WATCHER]: Stopping the watcher for /Users/jasonchen/Desktop/self/forge-cli (sources)
 [NX Daemon Server] - 2025-02-14T15:22:56.724Z - [WATCHER]: Stopping the watcher for /Users/jasonchen/Desktop/self/forge-cli (outputs)
 [NX Daemon Server] - 2025-02-14T15:22:56.724Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2025-02-14T15:25:56.215Z - Started listening on: /var/folders/ms/hznfwhls7zbbdtmdfvv9yky40000gn/T/7a620bbfb50ba7a12946/d.sock
+[NX Daemon Server] - 2025-02-14T15:25:56.216Z - [WATCHER]: Subscribed to changes within: /Users/jasonchen/Desktop/self/forge-cli (native)
+[NX Daemon Server] - 2025-02-14T15:25:56.217Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-02-14T15:25:56.217Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-02-14T15:25:56.218Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-02-14T15:25:56.218Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-02-14T15:25:56.220Z - Time taken for 'loadSpecifiedNxPlugins' 0.4115829998627305ms
+[NX Daemon Server] - 2025-02-14T15:25:56.277Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:25:56.321Z - Time taken for 'Load Nx Plugin: /Users/jasonchen/Desktop/self/forge-cli/node_modules/nx/src/plugins/package-json' 102.1621250002645ms
+[NX Daemon Server] - 2025-02-14T15:25:56.322Z - Time taken for 'Load Nx Plugin: /Users/jasonchen/Desktop/self/forge-cli/node_modules/nx/src/plugins/project-json/build-nodes/project-json' 102.45687499968335ms
+[NX Daemon Server] - 2025-02-14T15:25:56.325Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:25:56.325Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:25:56.325Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:25:56.328Z - Time taken for 'loadDefaultNxPlugins' 105.94700000016019ms
+[NX Daemon Server] - 2025-02-14T15:25:56.339Z - Time taken for 'build-project-configs' 6.142207999713719ms
+[NX Daemon Server] - 2025-02-14T15:25:56.346Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:25:56.346Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-02-14T15:25:56.346Z - Time taken for 'total for creating and serializing project graph' 127.44512499962002ms
+[NX Daemon Server] - 2025-02-14T15:25:56.347Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-02-14T15:25:56.347Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 128. Response time: 1.
+[NX Daemon Server] - 2025-02-14T15:25:56.348Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2025-02-14T15:25:56.348Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2025-02-14T15:25:56.348Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2025-02-14T15:26:01.077Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-02-14T15:26:31.414Z - [WATCHER]: nx.json was modified
+[NX Daemon Server] - 2025-02-14T15:26:31.414Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:26:31.514Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:26:31.514Z - [REQUEST]: nx.json
+[NX Daemon Server] - 2025-02-14T15:26:31.514Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:26:31.516Z - Time taken for 'hash changed files from watcher' 0.06670799991115928ms
+[NX Daemon Server] - 2025-02-14T15:26:31.520Z - Time taken for 'build-project-configs' 3.6808339999988675ms
+[NX Daemon Server] - 2025-02-14T15:26:31.527Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:26:31.527Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-02-14T15:26:31.527Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-02-14T15:26:31.527Z - Time taken for 'total execution time for createProjectGraph()' 5.404957999940962ms
+[NX Daemon Server] - 2025-02-14T15:26:31.928Z - [WATCHER]: nx.json was modified
+[NX Daemon Server] - 2025-02-14T15:26:31.929Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:26:32.130Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:26:32.130Z - [REQUEST]: nx.json
+[NX Daemon Server] - 2025-02-14T15:26:32.130Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:26:32.133Z - Time taken for 'hash changed files from watcher' 0.1289170002564788ms
+[NX Daemon Server] - 2025-02-14T15:26:32.139Z - Time taken for 'build-project-configs' 6.075457999948412ms
+[NX Daemon Server] - 2025-02-14T15:26:32.148Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:26:32.149Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-02-14T15:26:32.149Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-02-14T15:26:32.149Z - Time taken for 'total execution time for createProjectGraph()' 7.411375000141561ms
+[NX Daemon Server] - 2025-02-14T15:26:32.381Z - [WATCHER]: nx.json was modified
+[NX Daemon Server] - 2025-02-14T15:26:32.381Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:26:32.715Z - [WATCHER]: nx.json was modified
+[NX Daemon Server] - 2025-02-14T15:26:32.715Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:26:32.781Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:26:32.781Z - [REQUEST]: nx.json
+[NX Daemon Server] - 2025-02-14T15:26:32.781Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:26:32.783Z - Time taken for 'hash changed files from watcher' 0.07141700014472008ms
+[NX Daemon Server] - 2025-02-14T15:26:32.787Z - Time taken for 'build-project-configs' 4.60004199994728ms
+[NX Daemon Server] - 2025-02-14T15:26:32.792Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:26:32.793Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-02-14T15:26:32.793Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-02-14T15:26:32.793Z - Time taken for 'total execution time for createProjectGraph()' 3.9730829996988177ms
+[NX Daemon Server] - 2025-02-14T15:26:33.023Z - [WATCHER]: nx.json was modified
+[NX Daemon Server] - 2025-02-14T15:26:33.023Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:26:33.824Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-02-14T15:26:33.825Z - [REQUEST]: nx.json
+[NX Daemon Server] - 2025-02-14T15:26:33.825Z - [REQUEST]: 
+[NX Daemon Server] - 2025-02-14T15:26:33.828Z - Time taken for 'hash changed files from watcher' 0.25904199993237853ms
+[NX Daemon Server] - 2025-02-14T15:26:33.836Z - Time taken for 'build-project-configs' 7.995500000193715ms
+[NX Daemon Server] - 2025-02-14T15:26:33.845Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-02-14T15:26:33.845Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-02-14T15:26:33.845Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-02-14T15:26:33.845Z - Time taken for 'total execution time for createProjectGraph()' 7.618749999906868ms
+[NX Daemon Server] - 2025-02-14T15:27:46.895Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2025-02-14T15:27:46.896Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-02-14T15:27:46.896Z - [WATCHER]: Stopping the watcher for /Users/jasonchen/Desktop/self/forge-cli (sources)
+[NX Daemon Server] - 2025-02-14T15:27:46.896Z - [WATCHER]: Stopping the watcher for /Users/jasonchen/Desktop/self/forge-cli (outputs)
+[NX Daemon Server] - 2025-02-14T15:27:46.897Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
