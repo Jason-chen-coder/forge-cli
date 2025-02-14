@@ -3,5 +3,5 @@
 module.exports = commands;
 
 function commands() {
-  return 'Hello from commands';
+  return 'Hello from commands 2';
 }
